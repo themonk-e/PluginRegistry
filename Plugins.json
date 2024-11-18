@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Addition",
+    "url": "https://example.com/plugins/addition.js"
+  },
+  {
+    "name": "Subtraction",
+    "url": "https://example.com/plugins/subtraction.js"
+  }
+]
