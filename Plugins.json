@@ -6,5 +6,9 @@
   {
     "name": "Subtraction",
     "url": "https://plugin-registry.vercel.app/subtraction.js"
+  },
+   {
+    "name": "Multiplication",
+    "url": "https://plugin-registry.vercel.app/multiplication.js"
   }
 ]
