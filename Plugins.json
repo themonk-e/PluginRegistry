@@ -1,10 +1,10 @@
 [
   {
     "name": "Addition",
-    "url": "https://example.com/plugins/addition.js"
+    "url": "https://plugin-registry.vercel.app/addition.js"
   },
   {
     "name": "Subtraction",
-    "url": "https://example.com/plugins/subtraction.js"
+    "url": "https://plugin-registry.vercel.app/subtraction.js"
   }
 ]
